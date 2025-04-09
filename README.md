@@ -14,4 +14,4 @@ DWFS-Obfuscation: Dynamic Weighted Feature Selection for Robust Malware Classifi
    else:<br>
        cd ObfuscationAPKTest Folder<br>
        then run ObfuscationPerClassTest.py<br>
-       it include Dataset we open-source.<br>
+       DWFS-Obfuscation_Test_Data it include Dataset we open-source, only 50 per class and per obfuscation strategies.<br>
