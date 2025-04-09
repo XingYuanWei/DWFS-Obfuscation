@@ -3,8 +3,8 @@ DWFS-Obfuscation: Dynamic Weighted Feature Selection for Robust Malware Classifi
 
 ## How to run this.
 
-1. first conda envriment
-   cd DWFS-Obfuscation
+1. first conda envriment<br>
+   cd DWFS-Obfuscation<br>
    pip install -r requirements.txt
 3. if (you want to train a new model）:
        you need prepare a pair of unobfuscation malware and obfuscated malware.
